@@ -1,5 +1,4 @@
-FROM node:10-alpine
-LABEL maintainer "h-mineta <h-mineta@0nyx.net>"
+FOM node:10-alpine
 
 ENV DOCKER="YES"
 ARG REPOSITORY="git://github.com/Chinachu/Chinachu.git"
@@ -82,6 +81,9 @@ RUN git clone ${REPOSITORY} ${WORK_DIR} \
 # /usr/local/chinachu/rules.json
 # /usr/local/chinachu/data
 # /usr/local/chinachu/recorded
+
+COPY ./docker-entrypoint.sh /
+RUN chmod +rx /docker-entrypoint.sh
 
 WORKDIR ${WORK_DIR}
 EXPOSE 10772 20772 5353
