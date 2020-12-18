@@ -1,1 +1,2698 @@
-{}
+[
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "フリースタイルダンジョン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "Ａ－Ｓｔｕｄｉｏ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "タモリ倶楽部"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "news"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "クローズアップ現代＋選"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "流派"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "世にも奇妙な物語"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "マツコ会議"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "家、ついて行ってイイですか？"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "news"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "カンブリア宮殿"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "アメトーーク！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ロンドンハーツ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ダウンタウンなう"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ワイドナショー"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "日曜劇場"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "世界の果てまでイッテＱ！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "情熱大陸"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i52rvs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＳＷＩＴＣＨインタビュー　達人達（たち）"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＯＮＥラグビー"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "がっちりマンデー！！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ミュージックステーション"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ダウンタウンのガキの使いやあらへんで！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "水曜日のダウンタウン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＳＯＮＧＳ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "theater"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "dance alive"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "情熱大陸"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "マツコの知らない世界"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "くりぃむナンチャラ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "全力！脱力タイムズ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "スジナシ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1hjjdzs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ナイトスクープ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "満天☆青空レストラン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ザ・ノンフィクション"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "news"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "クローズアップ現代＋"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "プロフェッショナル　仕事の流儀"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "「出川哲朗のアイ・アム・スタディー」"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "石橋貴明のたいむとんねる"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "おげんさんといっしょ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＨＥＹ！ＨＥＹ！ＮＥＯ！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "石橋貴明のたいむとんねる"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ブラタモリ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "さんまのまんま"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "鶴瓶の家族に乾杯"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "情熱大陸"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "もしもツアーズ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "歌謡祭"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "サラメシ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "しくじり先生"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＮＨＫスペシャル選"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＬＩＦＥ！～人生に捧げるコント～"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "チコちゃんに叱られる！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "所さんの目がテン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "世界はほしいモノにあふれてる選"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "有吉ぃぃｅｅｅｅｅ！～そうだ！今からお前んチでゲームしない？"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ボクらの時代"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "サンドのお風呂いただきます"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＮＨＫスペシャル"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "世界はほしいモノにあふれてる"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ドラマ１０"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "有吉のお金発見　突撃！カネオくん"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "news"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "首都圏情報　ネタドリ！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "絶対零度～未然犯罪潜入捜査～"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "所さん！大変ですよ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "hobby"
+      ],
+      "channels": [
+        "1i52rvs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "沼にハマってきいてみた"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ゴッドタン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＬＩＦＥ！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "火曜ドラマ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "刑事７人"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "出川哲朗の充電させてもらえませんか"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "theater"
+      ],
+      "channels": [
+        "1i52rvs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "青春舞台"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "時効警察"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ラグビー"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ドクターＸ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "sports"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "情熱大陸"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ウレロ☆未開拓少女"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "王様のブランチ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "【ドラマ１０】"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "映像研には"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "【よるドラ】伝説のお母さん"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ドキュメント７２時間"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "死にたい夜にかぎって"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＳＵＩＴＳ／スーツ２"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "モヤモヤさまぁ～ず２"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "さまぁ～ず×さまぁ～ず"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "未来少年コナン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "アベマの時間"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "有田ジェネレーション"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "テレビ千鳥"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＢＧ～身辺警護人～"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "Mixalive　presents　田村淳が豊島区池袋"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "フリースタイルティーチャー"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "激レアさんを連れてきた。"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ペイシェント"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "あちこちオードリー　～春日の店あいてますよ？～"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ノブナカなんなん？"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "Paraviオリジナルドラマ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "未解決の女"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ドラえもん"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "クレヨンしんちゃん"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "天使にリクエストを"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "イグナッツ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ゴンゾウ～伝説の刑事"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1hjjdzs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＫＩＮＧ　ＯＦ　ＤＡＮＣＥ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ドラマパラビ　だから私はメイクする"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "さまぁ～ず論"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "かまいガチ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "にゅーくりぃむ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "東野・岡村の旅猿１８"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "浜ちゃんが"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "歌カツ！　～歌うま中高生応援プロジェクト～"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "Ａ－Ｓｔｕｄｉｏ＋"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "３５歳の少女"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "あざとくて何が悪いの？"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "music"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ＣＤＴＶライブ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "２４ ＪＡＰＡＮ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "それって!?実際どうなの課"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1hes13s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "白黒アンジャッシュ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "タリオ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "東京　ＢＡＢＹ　ＢＯＹＳ　９"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "極主夫道"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "さくらの親子丼"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "金曜ドラマ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "共演ＮＧ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "姉ちゃんの恋人"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "監察医　朝顔"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "閻魔堂"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "anime"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "進撃の巨人"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "七人の秘書"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "月曜プレミア８"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1hes13s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "いろはに千鳥"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5bcjs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "相棒"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "information"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "噂の！東京マガジン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "華丸大吉＆千鳥のテッパンいただきます！"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i52rvs"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "浦沢直樹の漫勉ｎｅｏ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "フリーター、家を買う。"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "謎解きはディナーのあとで"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "documentary"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "プロフェッショナル"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i597ds"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ラッキーセブン"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "少年寅次郎スペシャル"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i5dhps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "「３８歳バツイチ独身女がマッチングアプリをやってみた結果日記」"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i54x1s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "それって!?実際どうなの課"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "variety"
+      ],
+      "channels": [
+        "1i5727s"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "中居正広の金曜日のスマイルたちへ"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "少年寅次郎スペシャル"
+      ],
+      "recorded_format": ""
+    },
+    {
+      "types": [
+        "GR"
+      ],
+      "categories": [
+        "drama"
+      ],
+      "channels": [
+        "1i50mps"
+      ],
+      "hour": {
+        "start": 0,
+        "end": 24
+      },
+      "reserve_titles": [
+        "ノースライト"
+      ],
+      "recorded_format": ""
+    }
+  ]

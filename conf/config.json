@@ -8,12 +8,12 @@
   ],
   "wuiAllowCountries": ["JP"],
 
-  "wuiPort"             : 10772,
-  "wuiHost"             : "::",
+  "wuiPort"             : null,
+  "wuiOpenHost"         : "0.0.0.0",
   "wuiTlsKeyPath"       : null,
   "wuiTlsCertPath"      : null,
-  "wuiOpenServer"       : false,
-  "wuiOpenPort"         : 20772,
+  "wuiOpenServer"       : true,
+  "wuiOpenPort"         : 50772,
   "wuiXFF"              : false,
   "wuiPreviewer"        : true,
   "wuiStreamer"         : true,
@@ -21,7 +21,7 @@
   "wuiConfigurator"     : true,
   "wuiMdnsAdvertisement": true,
 
-  "mirakurunPath": "http://container-mirakurun:40772/",
+  "mirakurunPath": "http://192.168.1.254:40772/",
 
   "recordedFormat": "[<date:yymmdd-HHMM>][<type><channel>][<tuner>]<title>.m2ts",
 

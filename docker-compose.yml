@@ -5,8 +5,9 @@ services:
     command: bash -c "cd /usr/local/chinachu; node app-wui.js"
     ports:
      - "10772:10772"
-     - "20772:20772"
-     - "5353:5353/udp"
+#     - "20772:20772"
+     - "50772:50772"
+#     - "5353:5353/udp"
     volumes:
      - /etc/localtime:/etc/localtime:ro
      - ./conf/config.json:/usr/local/chinachu/config.json:rw
@@ -22,27 +23,10 @@ services:
      - ./conf/rules.json:/usr/local/chinachu/rules.json:rw
      - ./data:/usr/local/chinachu/data:rw
      - rec_data:/usr/local/chinachu/recorded:rw
-  samba:
-    image: dperson/samba
-    environment:
-      TZ: 'JST'
-    ports:
-      - "137:137/udp"
-      - "138:138/udp"
-      - "139:139"
-      - "445:445"
-    #read_only: true
-    tmpfs:
-      - /tmp
-    restart: unless-stopped
-    stdin_open: true
-    tty: true
-    volumes:
-      - rec_data:/recorded
-    command: '-u "user;badpass" -s "recorded;/recorded;yes;no;no;;user;;chinachu recorded"'
 volumes:
   rec_data:
     driver_opts:
       type: none
-      device: /opt/chinachu/recorded
+#     device: /opt/chinachu/recorded
+      device: /home/chinachu/chinachu/recorded/
       o: bind
